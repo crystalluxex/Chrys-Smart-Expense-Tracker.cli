@@ -10,6 +10,6 @@ What It Does
 -Allows quitting at anytime
 
 How To Run.
--Make sure pytho is installed and run
+-Make sure python is installed and run
 Smart Expense Tracker.cli
 ##Author-Crystal5
